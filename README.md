@@ -76,5 +76,3 @@ to build advanced placement prediction systems for students and institutions.
 ## 👨‍💻 Developed As Academic Project
 
 Built as a student academic project to explore **data analytics, placement intelligence, and predictive modeling** using R in Jupyter Notebook.
-
-### ⭐ If you found this project interesting, feel free to explore and fork the repository.
